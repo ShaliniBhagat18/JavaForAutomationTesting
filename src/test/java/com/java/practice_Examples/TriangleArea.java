@@ -3,7 +3,8 @@ package com.java.practice_Examples;
 import java.util.Scanner;
 
 public class TriangleArea {
-
+// Create a program to calculate the area of the Triangle
+// AOT = 1/2*B*H;	
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Welcome to Area calculator\n");

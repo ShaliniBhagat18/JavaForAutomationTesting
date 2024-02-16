@@ -1,7 +1,7 @@
 package com.java.practice_Examples;
 
 import java.util.Scanner;
-
+// WAP that determines if a greatest of the three numbers
 public class GreatestOfThree {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);

@@ -3,7 +3,8 @@ package com.java.practice_Examples;
 import java.util.Scanner;
 
 public class FahrenheitToCelsius {
-
+// Create a program to conver Fahrenheit to Celsius
+	// C= (F-32)*5/9
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Welcome to Temperature converter");

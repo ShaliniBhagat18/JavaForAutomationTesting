@@ -3,7 +3,7 @@ package com.java.practice_Examples;
 import java.util.Scanner;
 
 public class OddEven {
-
+//WAP that determines the odd and even number
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Welcome to Odd even calculator\n");

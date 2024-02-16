@@ -3,7 +3,8 @@ package com.java.practice_Examples;
 import java.util.Scanner;
 
 public class CompoundInterest {
-
+	// WAP to calculate Compound interest
+	//CI = P(1+R/100)t
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Welcome to Compound interest calculator\n");

@@ -3,7 +3,7 @@ package com.java.practice_Examples;
 import java.util.Scanner;
 
 public class PositiveNegativeZero {
-
+//WAP that determines if a number is positive , negative or zero
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Welcome to Number checker\n");

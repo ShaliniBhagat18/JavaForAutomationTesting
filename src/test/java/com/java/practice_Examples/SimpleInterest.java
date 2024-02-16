@@ -3,7 +3,9 @@ package com.java.practice_Examples;
 import java.util.Scanner;
 
 public class SimpleInterest {
-
+// WAP to calculate Simple interest 
+// Compound interest = (p*T*R)/100
+	
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Welcome to Simple Interest Calculator\n");
