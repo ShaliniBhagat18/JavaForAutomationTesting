@@ -3,6 +3,8 @@ package com.java.practice_Examples;
 import java.util.Scanner;
 
 public class Perimeter {
+	//Write a program to calculate Perimeter of a rectangle 
+	// Perimeter of rectangle ABCD = A+B+C+D
 	 public static void main(String[] args) {
 	        Scanner input = new Scanner(System.in);
 	        System.out.println("Welcome to Perimeter Calculator");

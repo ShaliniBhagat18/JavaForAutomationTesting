@@ -3,7 +3,8 @@ package com.java.practice_Examples;
 import java.util.Scanner;
 
 public class Grading {
-
+// WAP that calculates grades based on marks
+	// A. above 90%, B. above 75%, C. above 60%, D. above 30, E. below 30% 	
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Welcome to Grade calculator\n");

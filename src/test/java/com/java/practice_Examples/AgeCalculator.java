@@ -3,6 +3,8 @@ package com.java.practice_Examples;
 import java.util.Scanner;
 
 public class AgeCalculator {
+	//WAP that categorize the person into different age groups
+	// Child-Below 13,  Teen-below 20, Adult-below 60, Sr. Citizen-above 60 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Welcome to age calculator");

@@ -3,6 +3,7 @@ package com.java.practice_Examples;
 import java.util.Scanner;
 
 public class FloatMultiplication {
+		// Write a program to calculate floating point number multiplication
 	public static void main(String args[]) {
 		Scanner input = new Scanner(System.in);
 		System.out.print("Welcome to the float multiplication world \n");
