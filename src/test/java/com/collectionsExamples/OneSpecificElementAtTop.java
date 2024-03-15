@@ -9,7 +9,7 @@ import java.util.Set;
 public class OneSpecificElementAtTop {
 	public static void main(String[] args) {
 
-		List<String> API = new ArrayList<String>();
+		Set<String> API = new HashSet<String>();
 		API.add("Shalini");
 		API.add("Tester");
 		API.add("QA");
@@ -23,25 +23,25 @@ public class OneSpecificElementAtTop {
 		myList2.add("QA");
 		myList2.add("Tech");
 
-		for (int i = 0; i < API.size(); i++) {
-			if (API.contains("Tavant")) {
-				API.remove("Tavant");
-				API.add(0, "Tavant");
-			} else {
-				System.out.println("Not available in the list!! ");
-			}
+		Set<String> UI = new HashSet<String>();
+		UI.add("Tavant");
+		UI.add("Shalini");
+		UI.add("Tester");
+		UI.add("QA");
+		UI.add("Tech");
+		String expectedText = myList2.get(0);
+
+		if (expectedText == "Tavant") {
+			System.out.println("Test Pass");
+		} else {
+			System.out.println("Failed");
 		}
 		System.out.println(API);
-		
-		if(API.equals(myList2)) {
+		System.out.println(UI);
+		if (API.equals(UI)) {
 			System.out.println("It is same !!");
-			System.out.println(API);
-			System.out.println(myList2);
-		}else {
+		} else {
 			System.out.println("It is not same !!");
-			System.out.println(API);
-			System.out.println(myList2);
-			
 		}
 
 	}
