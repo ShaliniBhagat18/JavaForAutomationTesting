@@ -3,6 +3,10 @@ package com.java.practice_Examples;
 import java.util.Scanner;
 
 public class OddSum {
+/*
+ * Create a program to sum all odd number from 1 to a specified number N
+ * instead of i++ we have to give i+2 
+ */
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Welcome to Odd Sum");

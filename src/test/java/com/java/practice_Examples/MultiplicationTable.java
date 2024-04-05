@@ -3,6 +3,9 @@ package com.java.practice_Examples;
 import java.util.Scanner;
 
 public class MultiplicationTable {
+	/*
+	 * Develop a program that prints the multiplication table for a given number
+	 */
 	 public static void main(String[] args) {
 	        Scanner scanner = new Scanner(System.in);
 	        System.out.println("Welcome to Multiplication World\n");

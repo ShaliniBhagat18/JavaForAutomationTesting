@@ -3,6 +3,10 @@ package com.java.practice_Examples;
 import java.util.Scanner;
 
 public class GCD {
+	/*
+	 * Create a program to find greates Common Divisor
+	 * is the number is divisible by given number eg 15 and 20 divisible by 5 so 5 is GCD
+	 */
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Welcome to GCD");
