@@ -1,6 +1,12 @@
 package com.java.practice_Examples;
 
 import java.util.Scanner;
+/*
+ * Create a program to check if a number is an Armstrong number
+ * Eg 153 = 1^3 + 5^3 +3^
+ *        = 1+125+27
+ *        =  153
+ */
 
 public class ArmstrongNumber {
 	public static void main(String[] args) {

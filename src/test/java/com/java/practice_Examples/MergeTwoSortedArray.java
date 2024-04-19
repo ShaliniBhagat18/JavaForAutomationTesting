@@ -1,6 +1,10 @@
 package com.java.practice_Examples;
 
 public class MergeTwoSortedArray {
+	/*
+	 * Create a program to merge two sorted arrays
+	 * 
+	 */
 	public static void main(String[] args) {
         System.out.println("Welcome to Merging Sorted Arrays\n");
         int[] arr1 = ArrayUtility.inputArray();

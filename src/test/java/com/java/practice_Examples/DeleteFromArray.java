@@ -3,6 +3,12 @@ package com.java.practice_Examples;
 import java.util.Scanner;
 
 public class DeleteFromArray {
+	/*
+	 * Create a program to return a new array deleting a specific element.
+	 * Here we can not change array size so first need to find occurrences of the deleting element and create new array without occ
+	 * Arra = [34, 56, 24, 56, 45 24] = 24
+	 * Array[4] = [34, 56, 56, 45]
+	 */
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Welcome to Array Deletion\n");

@@ -43,5 +43,14 @@
 			<attribute name="maven.scope" value="compile"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/shalini.bhagat.IN/.m2/repository/org/apache/ant/ant/1.10.3/ant-1.10.3.jar" sourcepath="C:/Users/shalini.bhagat.IN/.m2/repository/org/apache/ant/ant/1.10.3/ant-1.10.3-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.apache.ant"/>
+			<attribute name="maven.artifactId" value="ant"/>
+			<attribute name="maven.version" value="1.10.3"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class MultiplicationTable {
 	/*
 	 * Develop a program that prints the multiplication table for a given number
+	 * 4*1, 4*2, 4*3......
 	 */
 	 public static void main(String[] args) {
 	        Scanner scanner = new Scanner(System.in);

@@ -1,6 +1,10 @@
 package com.java.practice_Examples;
 
 public class SumAverage2dArray {
+	/*
+	 * Create a program to find the sum and average of all elements in an array
+	 */
+	
 	 public static void main(String[] args) {
 	        System.out.println("Welcome to Sum and Average of 2D Array\n");
 	        int[][] numArr = ArrayUtility.input2DArray();

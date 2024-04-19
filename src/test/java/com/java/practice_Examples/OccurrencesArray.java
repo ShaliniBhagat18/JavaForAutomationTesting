@@ -3,6 +3,12 @@ package com.java.practice_Examples;
 import java.util.Scanner;
 
 public class OccurrencesArray {
+	/*
+	 * Create a program to find number of occurrences of an elements in an Array 
+	 * Eg [2, 4, 5, 4, 5]
+	 * 4
+	 * occ = 2
+	 */
 	 public static void main(String[] args) {
 	        Scanner input = new Scanner(System.in);
 	        System.out.println("Welcome to Array Occurrences\n");

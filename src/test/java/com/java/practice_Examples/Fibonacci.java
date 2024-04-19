@@ -1,6 +1,11 @@
 package com.java.practice_Examples;
 
 import java.util.Scanner;
+/*
+ * Create a program to print fibonacci series up to a certain number
+ * a series of numbers in which each number ( Fibonacci number ) is the sum of the two preceding numbers. 
+ * The simplest is the series 1, 1, 2, 3, 5, 8, etc.
+ */
 
 public class Fibonacci {
 	public static void main(String[] args) {

@@ -1,6 +1,11 @@
 package com.java.practice_Examples;
 
 public class MaxMinArray {
+	/*
+	 * Create a program to find the maximum and minimum element in an array
+	 * Min = [23, 21, 45, 67, 1, 4]= 1
+	 * Max = [23, 21, 45, 67, 1, 4] = 67
+	 */
 	public static void main(String[] args) {
 		System.out.println("Welcome to Max and Min\n");
 		int[] numArr = ArrayUtility.inputArray();

@@ -3,6 +3,9 @@ package com.java.practice_Examples;
 import java.util.Scanner;
 
 public class Search2DArray {
+	/*
+	 * Create a program to search an element in a 2-D array.
+	 */
 	  public static void main(String[] args) {
 	        Scanner input = new Scanner(System.in);
 	        System.out.println("Welcome to 2D Search\n");
